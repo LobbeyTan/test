@@ -18,4 +18,6 @@ public class App
 
     static void sum (int x, int y) {}
 
+    static void delete() {}
+
 }
