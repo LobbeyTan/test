@@ -12,4 +12,8 @@ public class App
         System.out.printf("New update");
     }
 
+    static void calculate(int x, int y) {
+        return x + y;
+    }
+
 }
